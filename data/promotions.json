@@ -1,0 +1,55 @@
+{
+  "sales": [
+    {
+      "id": "heb-whole-milk-25-off",
+      "productId": 1,
+      "store": "HEB",
+      "type": "percentOff",
+      "value": 25
+    },
+    {
+      "id": "heb-white-bread-amount-off",
+      "productId": 3,
+      "store": "HEB",
+      "type": "amountOff",
+      "value": 40
+    },
+    {
+      "id": "whole-foods-butter-buy-one-get-one",
+      "productId": 4,
+      "store": "Whole Foods",
+      "type": "buyXGetY",
+      "buyQuantity": 1,
+      "getQuantity": 1
+    }
+  ],
+  "coupons": [
+    {
+      "id": "manufacturer-eggs-50-cents-off",
+      "productId": 2,
+      "store": null,
+      "type": "amountOff",
+      "value": 50,
+      "minQuantity": 2,
+      "limit": 1
+    },
+    {
+      "id": "walmart-cheddar-15-percent-off",
+      "productId": 5,
+      "store": "Walmart",
+      "type": "percentOff",
+      "value": 15,
+      "minQuantity": 2,
+      "limit": 2
+    },
+    {
+      "id": "heb-milk-manufacturer-coupon",
+      "productId": 1,
+      "store": null,
+      "type": "amountOff",
+      "value": 50,
+      "minQuantity": 2,
+      "limit": 1
+    }
+  ]
+}
