@@ -1,0 +1,225 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Whole Milk",
+      "category": "Dairy",
+      "unit": "1 gallon",
+      "prices": {
+        "HEB": 389,
+        "Walmart": 365,
+        "Whole Foods": 499
+      }
+    },
+    {
+      "id": 2,
+      "name": "Large Eggs",
+      "category": "Dairy",
+      "unit": "12 count",
+      "prices": {
+        "HEB": 329,
+        "Walmart": 299,
+        "Whole Foods": 449
+      }
+    },
+    {
+      "id": 3,
+      "name": "White Bread",
+      "category": "Bakery",
+      "unit": "20 oz loaf",
+      "prices": {
+        "HEB": 249,
+        "Walmart": 219,
+        "Whole Foods": 399
+      }
+    },
+    {
+      "id": 4,
+      "name": "Butter",
+      "category": "Dairy",
+      "unit": "1 lb",
+      "prices": {
+        "HEB": 429,
+        "Walmart": 399,
+        "Whole Foods": 549
+      }
+    },
+    {
+      "id": 5,
+      "name": "Cheddar Cheese",
+      "category": "Dairy",
+      "unit": "8 oz",
+      "prices": {
+        "HEB": 279,
+        "Walmart": 299,
+        "Whole Foods": 449
+      }
+    },
+    {
+      "id": 6,
+      "name": "Chicken Breast",
+      "category": "Meat",
+      "unit": "1 lb",
+      "prices": {
+        "HEB": 399,
+        "Walmart": 429,
+        "Whole Foods": 699
+      }
+    },
+    {
+      "id": 7,
+      "name": "Ground Beef",
+      "category": "Meat",
+      "unit": "1 lb",
+      "prices": {
+        "HEB": 499,
+        "Walmart": 479,
+        "Whole Foods": 649
+      }
+    },
+    {
+      "id": 8,
+      "name": "Bananas",
+      "category": "Produce",
+      "unit": "1 lb",
+      "prices": {
+        "HEB": 59,
+        "Walmart": 54,
+        "Whole Foods": 79
+      }
+    },
+    {
+      "id": 9,
+      "name": "Apples",
+      "category": "Produce",
+      "unit": "3 lb bag",
+      "prices": {
+        "HEB": 399,
+        "Walmart": 379,
+        "Whole Foods": 499
+      }
+    },
+    {
+      "id": 10,
+      "name": "Strawberries",
+      "category": "Produce",
+      "unit": "1 lb",
+      "prices": {
+        "HEB": 299,
+        "Walmart": 349,
+        "Whole Foods": 399
+      }
+    },
+    {
+      "id": 11,
+      "name": "Russet Potatoes",
+      "category": "Produce",
+      "unit": "5 lb bag",
+      "prices": {
+        "HEB": 349,
+        "Walmart": 329,
+        "Whole Foods": 499
+      }
+    },
+    {
+      "id": 12,
+      "name": "Carrots",
+      "category": "Produce",
+      "unit": "2 lb bag",
+      "prices": {
+        "HEB": 179,
+        "Walmart": 169,
+        "Whole Foods": 249
+      }
+    },
+    {
+      "id": 13,
+      "name": "White Rice",
+      "category": "Pantry",
+      "unit": "5 lb bag",
+      "prices": {
+        "HEB": 499,
+        "Walmart": 459,
+        "Whole Foods": 699
+      }
+    },
+    {
+      "id": 14,
+      "name": "Pasta",
+      "category": "Pantry",
+      "unit": "16 oz",
+      "prices": {
+        "HEB": 149,
+        "Walmart": 129,
+        "Whole Foods": 249
+      }
+    },
+    {
+      "id": 15,
+      "name": "Olive Oil",
+      "category": "Pantry",
+      "unit": "16.9 oz",
+      "prices": {
+        "HEB": 699,
+        "Walmart": 649,
+        "Whole Foods": 899
+      }
+    },
+    {
+      "id": 16,
+      "name": "Peanut Butter",
+      "category": "Pantry",
+      "unit": "16 oz",
+      "prices": {
+        "HEB": 249,
+        "Walmart": 229,
+        "Whole Foods": 349
+      }
+    },
+    {
+      "id": 17,
+      "name": "Orange Juice",
+      "category": "Beverages",
+      "unit": "52 oz",
+      "prices": {
+        "HEB": 329,
+        "Walmart": 349,
+        "Whole Foods": 499
+      }
+    },
+    {
+      "id": 18,
+      "name": "Coffee",
+      "category": "Beverages",
+      "unit": "12 oz",
+      "prices": {
+        "HEB": 699,
+        "Walmart": 749,
+        "Whole Foods": 899
+      }
+    },
+    {
+      "id": 19,
+      "name": "Paper Towels",
+      "category": "Household",
+      "unit": "6 rolls",
+      "prices": {
+        "HEB": 599,
+        "Walmart": 549,
+        "Whole Foods": 799
+      }
+    },
+    {
+      "id": 20,
+      "name": "Dish Soap",
+      "category": "Household",
+      "unit": "24 oz",
+      "prices": {
+        "HEB": 299,
+        "Walmart": 279,
+        "Whole Foods": 399
+      }
+    }
+  ]
+}
